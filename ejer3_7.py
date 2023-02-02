@@ -1,0 +1,6 @@
+a= float(input("dime un número real"))
+b= float(input("dime otro numero real"))
+x= print(a/b)
+y= print(a//b)
+resultado = float(x - y)
+print("La solucion es ", resultado)
